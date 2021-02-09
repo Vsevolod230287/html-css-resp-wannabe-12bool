@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.container>.col-12 {
+  margin-top: 30px;
+  text-align: center;
+}
+
+img {
+  margin-bottom: 20px;
+  height: 200px;
+}
+
+#lezioni {
+  padding: 10px;
+background-color: #f2f2cd;
+}
+
+#steps {
+  padding: 10px;
+}
+#why img {
+  background-color: #428bca;
+  border-radius: 50%;
+  padding: 30px;
+}
+
+#why {
+  padding: 10px;
+  background-color: #f0f0cc;
+}
